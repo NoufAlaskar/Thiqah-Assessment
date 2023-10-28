@@ -3,7 +3,7 @@
 
 ## Project introduce
 
-### `git clone --depth 1 https://github.com/NoufAlaskar/Thiqah-Assessment
+### `git clone --depth 1 https://github.com/NoufAlaskar/Thiqah-Assessment`
 `
 In the project directory, you can run:
 ### `npm install` 
